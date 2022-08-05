@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "networks": [
+    {
+      "name": "Fuse Network",
+      "id": 122,
+      "rpc": "https://rpc.fuse.io/",
+      "symbol": "Fuse",
+      "explorer": "https://explorer.fuse.io/",
+      "tokensFolder" : "fuse"
+    },
+    {
+      "name": "Avalanche Network",
+      "id": 43114,
+      "rpc": "https://api.avax.network/ext/bc/C/rpc",
+      "symbol": "AVAX",
+      "explorer": "https://snowtrace.io/",
+      "tokensFolder" : "avax"
+    },
+    {
+      "name": "Smart Chain",
+      "id": 56,
+      "rpc": "https://bsc-dataseed.binance.org/",
+      "symbol": "BNB",
+      "explorer": "https://bscscan.com",
+      "tokensFolder" : "smartchain"
+    }
+  ]
+}
