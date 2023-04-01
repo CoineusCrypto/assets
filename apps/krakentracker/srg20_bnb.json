@@ -1,0 +1,83 @@
+{
+  "network": "bnb",
+  "tokens": [
+    {
+      "contract_address": "0x253Af03A3b6e1A6d9d9bb6535834f8993221fB9B",
+      "name": "SURGE POLICE",
+      "symbol": "$POLICE",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0x323B211505f8800ce21c7210e4d3F7Fd1291320A",
+      "name": "SPACE TACO",
+      "symbol": "TACO",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0x264Ff18224511eAB3b0caCc7C4f3B427912A6D06",
+      "name": "SpaceToob",
+      "symbol": "STOOB",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0x6892a9E3b48c02D2b36fE9B8fBF44678b1391BdC",
+      "name": "SurgeBurn",
+      "symbol": "SBURN",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0x9D51227A9b078E01da2935Af9679347dC260E277",
+      "name": "SAFESURGE",
+      "symbol": "SAFESURGE",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0xd1B78268e234ba01A56fDAB62d525422ad334103",
+      "name": "Infinity Surge",
+      "symbol": "$ISURGE",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0x4b765f17402063a462aE7E475287f7De7BafaEEc",
+      "name": "PennyMoon",
+      "symbol": "Penny",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0x43C3EBaFdF32909aC60E80ee34aE46637E743d65",
+      "name": "SURGE APE REBORN",
+      "symbol": "$APE",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0x2e6Cd6B93373391cBeBa065fB08d9adFA4afC6aB",
+      "name": "ANDO",
+      "symbol": "ANDO",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0x318688CD55C3e991B3a5CfBb01019568820678c6",
+      "name": "Surgex",
+      "symbol": "SEX",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0x138F1383C76Fc15aeDCF82E531c59442d13A4d53",
+      "name": "baby surge",
+      "symbol": "bsrg",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0x3c4B299253BC95908E3a9729Bf72F78CbE08F9Fc",
+      "name": "Surge Core",
+      "symbol": "CORE",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0x5217BEb363381b3595B3245D97d50F5dcE04E67C",
+      "name": "LUCKY SURGE",
+      "symbol": "LKY",
+      "decimals": 9
+    }
+  ]
+}
