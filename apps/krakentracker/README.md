@@ -10,7 +10,7 @@ The devs will take your info and manually add the listing for you. It may take s
 ### Adding to the list
 Fork this repo.
 
-go to assets/apps/krakentracker and modify the correct token list json, with the correct chain your project is on, i.e. _bnb or _eth
+go to `assets/apps/krakentracker` and modify the correct token list json, with the correct chain your project is on, i.e. _bnb or _eth
 
 Add your token's information to the bottom of the "tokens" array.
 
@@ -18,8 +18,8 @@ Add your token's information to the bottom of the "tokens" array.
 
 Example - BabyKrakens SRG20 Token on ETH:
 
-- Checksum: 0xF654d4C3CC334324ad474A0d5d3708dCA4c1CB25
-- Lowercase: 0xf654d4c3cc334324ad474a0d5d3708dca4c1cb25
+- Checksum: `0xF654d4C3CC334324ad474A0d5d3708dCA4c1CB25`
+- Lowercase: `0xf654d4c3cc334324ad474a0d5d3708dca4c1cb25`
 
 _a_ is not equal to _A_, it is import that you use the correct one
 
