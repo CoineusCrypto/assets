@@ -42,3 +42,5 @@ Add your logo file in that directory.
   - not Logo.png 
   - not logo.png.png
 - It **SHOULD** be 192x192 in size. 
+
+Submit a Pull Request for your token to be included. Team will review and with the click of a button on our side, be added to KrakenTracker.
