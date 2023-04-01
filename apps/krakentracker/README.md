@@ -1,7 +1,7 @@
 # Adding your project to KrakenTracker
 
 ## The easy way
-Submit your listing to this form: [link]
+Submit your listing to this form: [KrakenTracker Listing](https://forms.gle/8UTKFicXBUh4KwqFA)
 
 The devs will take your info and manually add the listing for you. As this is a manual process, it may take some time to get to, but is the easiest for you.
 
