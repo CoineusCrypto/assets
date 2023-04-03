@@ -84,6 +84,12 @@
       "name": "SRG Bartertown",
       "symbol": "Bcaps",
       "decimals": 9
+    },
+    {
+      "contract_address": "0xd1Bb7B274f19A77a264013988f7bA23aC4295469",
+      "name": "SurgeDoge",
+      "symbol": "DOGE",
+      "decimals": 9
     }
   ]
 }
