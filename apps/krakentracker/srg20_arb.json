@@ -2,10 +2,10 @@
   "network": "arb",
   "tokens": [
     {
-      "contract_address": "",
-      "name": "",
-      "symbol": "",
-      "decimals": 0
+      "contract_address": "0xeA88e8F7dF4DAbf87a4C9ABE23B386459Bd01bc9",
+      "name": "SURGE POLICE",
+      "symbol": "$POLICE",
+      "decimals": 9
     }
   ]
 }
