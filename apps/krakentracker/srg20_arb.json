@@ -7,5 +7,11 @@
       "symbol": "SAFESURGE",
       "decimals": 9
     }
+    {
+      "contract_address": "0x769dF482f2bCEcEe250F7799EDFaD0Cd5B727DE8",
+      "name": "Captain Surge",
+      "symbol": "CAPS",
+      "decimals": 9
+    }
   ]
 }
