@@ -90,6 +90,12 @@
       "name": "SurgeDoge",
       "symbol": "DOGE",
       "decimals": 9
+    },
+    {
+      "contract_address": "0x2379aA12E3DE1FDDBC47Bb9E8013122F9CBa357c",
+      "name": "Captain Surge",
+      "symbol": "CAPS",
+      "decimals": 9
     }
   ]
 }
