@@ -96,6 +96,18 @@
       "name": "SurgeDoge",
       "symbol": "DOGE",
       "decimals": 9
+    },
+    {
+      "contract_address": "0x2379aA12E3DE1FDDBC47Bb9E8013122F9CBa357c",
+      "name": "Captain Surge",
+      "symbol": "CAPS",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0x48e2bd1FF7E1094C5271e2c0B9B8C9b81382cEe7",
+      "name": "INSURGENT",
+      "symbol": "IRGT",
+      "decimals": 9
     }
   ]
 }
