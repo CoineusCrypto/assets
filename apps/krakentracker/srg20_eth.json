@@ -5,7 +5,13 @@
       "contract_address": "0xCD2eaFb04B464aF21D141D76647A28F6F298842f",
       "name": "SAFESURGE",
       "symbol": "SAFESURGE",
-      "decimals": 9
+      "decimals": 9,
+      "links" : {
+        "webiste" : "https://babykrakens.com/",
+        "telegram" : "https://twitter.com/babykrakens",
+        "twitter" : "https://t.me/babykrakens",
+        "discord" : "https://discord.gg/MuqGcn8MRH"
+      }
     }
   ]
 }
