@@ -12,6 +12,18 @@
       "name": "Captain Surge",
       "symbol": "CAPS",
       "decimals": 9
+    },
+    {
+      "contract_address": "0xd1B78268e234ba01A56fDAB62d525422ad334103",
+      "name": "Infinity Surge",
+      "symbol": "ISURGE",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0xc336137CDB167f8FC36b2e222d53ADf4EC4a0Fd5",
+      "name": "SURGECORE",
+      "symbol": "CORE",
+      "decimals": 9
     }
   ]
 }
