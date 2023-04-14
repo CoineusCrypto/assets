@@ -21,7 +21,8 @@
       "contract_address": "0x323B211505f8800ce21c7210e4d3F7Fd1291320A",
       "name": "SPACE TACO",
       "symbol": "TACO",
-      "decimals": 9
+      "decimals": 9, 
+      "rewards" : true
     },
     {
       "contract_address": "0x264Ff18224511eAB3b0caCc7C4f3B427912A6D06",
