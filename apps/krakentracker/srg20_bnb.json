@@ -114,5 +114,11 @@
       "symbol": "IRGT",
       "decimals": 9
     }
+    ,{
+      "contract_address": "0x7E74125AE55645f651a9B04B4010972c12126D2A",
+      "name": "Leverage",
+      "symbol": "LEV",
+      "decimals": 9
+    }
   ]
 }
