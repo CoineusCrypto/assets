@@ -5,7 +5,11 @@
       "contract_address": "0xbC8F89861737C3B8c60a05165E0a5C5B8A137fAc",
       "name": "Lightning",
       "symbol": "LIT",
-      "decimals": 9
+      "decimals": 9,
+      "links" : {
+        "website" : "https://lightningstrikes.app",
+        "telegram" : "https://t.me/LITLegion"
+      }
     },
     {
       "contract_address": "0x253Af03A3b6e1A6d9d9bb6535834f8993221fB9B",
@@ -17,7 +21,8 @@
       "contract_address": "0x323B211505f8800ce21c7210e4d3F7Fd1291320A",
       "name": "SPACE TACO",
       "symbol": "TACO",
-      "decimals": 9
+      "decimals": 9, 
+      "rewards" : true
     },
     {
       "contract_address": "0x264Ff18224511eAB3b0caCc7C4f3B427912A6D06",
@@ -95,6 +100,24 @@
       "contract_address": "0xd1Bb7B274f19A77a264013988f7bA23aC4295469",
       "name": "SurgeDoge",
       "symbol": "DOGE",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0x2379aA12E3DE1FDDBC47Bb9E8013122F9CBa357c",
+      "name": "Captain Surge",
+      "symbol": "CAPS",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0x48e2bd1FF7E1094C5271e2c0B9B8C9b81382cEe7",
+      "name": "INSURGENT",
+      "symbol": "IRGT",
+      "decimals": 9
+    }
+    ,{
+      "contract_address": "0x7E74125AE55645f651a9B04B4010972c12126D2A",
+      "name": "Leverage",
+      "symbol": "LEV",
       "decimals": 9
     }
   ]

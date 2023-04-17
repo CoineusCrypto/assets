@@ -7,5 +7,11 @@
       "symbol": "SAFESURGE",
       "decimals": 9
     }
+    ,{
+      "contract_address": "0x2225c9764fE39001C7cb1CBdE25a3443D5cAED7B",
+      "name": "Bank of Banks",
+      "symbol": "BOB",
+      "decimals": 9
+    }
   ]
 }
