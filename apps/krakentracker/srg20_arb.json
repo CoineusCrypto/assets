@@ -24,6 +24,12 @@
       "name": "SURGECORE",
       "symbol": "CORE",
       "decimals": 9
+    },
+    {
+      "contract_address": "0x264Ff18224511eAB3b0caCc7C4f3B427912A6D06",
+      "name": "SpaceToob",
+      "symbol": "STOOB",
+      "decimals": 9
     }
   ]
 }
