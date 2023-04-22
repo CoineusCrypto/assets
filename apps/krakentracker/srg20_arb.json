@@ -6,7 +6,8 @@
       "name": "Pepe",
       "symbol": "PEPE",
       "decimals": 9,
-      "rewards": true
+      "rewards": true,
+      "distributor" : "0x1bE371dAdF0787db3930Ef77e7545e06A5677FE2"
     },
     {
       "contract_address": "0xeA88e8F7dF4DAbf87a4C9ABE23B386459Bd01bc9",
