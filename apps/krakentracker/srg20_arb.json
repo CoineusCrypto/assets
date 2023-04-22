@@ -2,6 +2,13 @@
   "network": "arb",
   "tokens": [
     {
+      "contract_address": "0x722D8fA60Fe59a14aBd194D94F1090Aa473A8577",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "decimals": 9,
+      "rewards": true
+    },
+    {
       "contract_address": "0xeA88e8F7dF4DAbf87a4C9ABE23B386459Bd01bc9",
       "name": "SAFESURGE",
       "symbol": "SAFESURGE",
@@ -29,12 +36,6 @@
       "contract_address": "0x264Ff18224511eAB3b0caCc7C4f3B427912A6D06",
       "name": "SpaceToob",
       "symbol": "STOOB",
-      "decimals": 9
-    },
-    {
-      "contract_address": "0x722D8fA60Fe59a14aBd194D94F1090Aa473A8577",
-      "name": "Pepe",
-      "symbol": "PEPE",
       "decimals": 9
     }
   ]
