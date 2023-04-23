@@ -22,7 +22,8 @@
       "name": "SPACE TACO",
       "symbol": "TACO",
       "decimals": 9, 
-      "rewards" : true
+      "rewards" : true,
+      "distributor" : "0x29f0Ba7085b25aC73D1DF819a00544275EFC850D"
     },
     {
       "contract_address": "0x264Ff18224511eAB3b0caCc7C4f3B427912A6D06",
