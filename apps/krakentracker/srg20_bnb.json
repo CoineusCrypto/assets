@@ -114,11 +114,18 @@
       "name": "INSURGENT",
       "symbol": "IRGT",
       "decimals": 9
-    }
-    ,{
+    },
+    {
       "contract_address": "0x7E74125AE55645f651a9B04B4010972c12126D2A",
       "name": "Leverage",
       "symbol": "LEV",
+      "decimals": 9
+    
+    },
+    {
+      "contract_address": "0x6ea891dc72cf5bA6a4af83Af2ee89fFfAbF7E5Eb",
+      "name": "GOD",
+      "symbol": "GOD",
       "decimals": 9
     }
   ]
