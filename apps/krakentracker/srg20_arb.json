@@ -38,6 +38,12 @@
       "name": "SpaceToob",
       "symbol": "STOOB",
       "decimals": 9
+    },
+    {
+      "contract_address": "0x0ea76657BC103F95A49540827c1255E4928Da78B",
+      "name": "GOD",
+      "symbol": "GOD",
+      "decimals": 9
     }
   ]
 }
