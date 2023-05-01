@@ -19,7 +19,9 @@
       "contract_address": "0x71Db3F5729Db3E166A8936A07Cf8026594b0D278",
       "name": "$WEED",
       "symbol": "$WEED",
-      "decimals": 9
+      "decimals": 9,
+      "rewards": true,
+      "distributor" : "0x6D22bc6CA5D90C02653F7BfB2d44850ec7f74401"
     },
     {
       "contract_address": "0xeA88e8F7dF4DAbf87a4C9ABE23B386459Bd01bc9",
