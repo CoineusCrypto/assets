@@ -52,6 +52,12 @@
       "name": "GOD",
       "symbol": "GOD",
       "decimals": 9
+    },
+    {
+      "contract_address": "0xa4011f6DE02e19C46894977dA07a08DD0b090B37",
+      "name": "ANDO",
+      "symbol": "ANDO",
+      "decimals": 9
     }
   ]
 }
