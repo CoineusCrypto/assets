@@ -1,0 +1,9 @@
+{
+  "name" : "Lightning",
+  "symbol" : "LIT",
+  "decimals" : 9,
+  "links": {
+    "website": "https://lightningstrikes.app",
+    "telegram": "https://t.me/LITLegion"
+  }
+}

@@ -5,11 +5,7 @@
       "contract_address": "0xbC8F89861737C3B8c60a05165E0a5C5B8A137fAc",
       "name": "Lightning",
       "symbol": "LIT",
-      "decimals": 9,
-      "links" : {
-        "website" : "https://lightningstrikes.app",
-        "telegram" : "https://t.me/LITLegion"
-      }
+      "decimals": 9
     },
     {
       "contract_address": "0x253Af03A3b6e1A6d9d9bb6535834f8993221fB9B",
