@@ -5,5 +5,8 @@
   "links": {
     "website": "https://lightningstrikes.app",
     "telegram": "https://t.me/LITLegion"
+  },
+  "labels" : {
+    "teamWallet" : "Asset Backing"
   }
 }
