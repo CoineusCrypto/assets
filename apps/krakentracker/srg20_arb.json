@@ -10,7 +10,7 @@
       "distributor" : "0x1bE371dAdF0787db3930Ef77e7545e06A5677FE2"
     },
     {
-      "contract_address": "0x264Ff18224511eAB3b0caCc7C4f3B427912A6D06",
+      "contract_address": "0xE8EB42fDdE722B8EF9d50C1a3B9525f6f5cd339B",
       "name": "SpaceToob",
       "symbol": "STOOB",
       "decimals": 9
@@ -45,6 +45,12 @@
       "contract_address": "0xd1B78268e234ba01A56fDAB62d525422ad334103",
       "name": "Infinity Surge",
       "symbol": "ISURGE",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0xa4011f6DE02e19C46894977dA07a08DD0b090B37",
+      "name": "ANDO",
+      "symbol": "ANDO",
       "decimals": 9
     },
     {
