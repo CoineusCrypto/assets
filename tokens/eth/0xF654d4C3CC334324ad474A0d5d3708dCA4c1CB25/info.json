@@ -1,0 +1,10 @@
+{
+  "name" : "Babykrakens",
+  "symbol" : "BBKS",
+  "decimals" : 9,
+  "links": {
+    "website": "https://babykrakens.com",
+    "twitter": "https://twitter.com/babykrakens",
+    "telegram": "https://t.me/babykrakens"
+  }
+}
