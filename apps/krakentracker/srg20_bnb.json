@@ -8,6 +8,12 @@
       "decimals": 9
     },
     {
+      "contract_address": "0xcC8A1364Bd05e05402e8b28dAe554b5d6216E6B9",
+      "name": "Chad",
+      "symbol": "CHAD",
+      "decimals": 9
+    },
+    {
       "contract_address": "0x253Af03A3b6e1A6d9d9bb6535834f8993221fB9B",
       "name": "SURGE POLICE",
       "symbol": "$POLICE",
