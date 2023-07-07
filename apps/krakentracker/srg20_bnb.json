@@ -19,7 +19,9 @@
       "contract_address": "0x253Af03A3b6e1A6d9d9bb6535834f8993221fB9B",
       "name": "SURGE POLICE",
       "symbol": "$POLICE",
-      "decimals": 9
+      "decimals": 9,
+      "rewards" : true,
+      "distributor" : "0x5d2d293c40079e955DFff407a0c696bF0cdD2b33"
     },
     {
       "contract_address": "0x323B211505f8800ce21c7210e4d3F7Fd1291320A",
