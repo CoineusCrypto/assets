@@ -1,0 +1,29 @@
+{
+  "network": "bnb",
+  "tokens": [
+    {
+      "contract_address": "0xbC8F89861737C3B8c60a05165E0a5C5B8A137fAc",
+      "name": "Lightning",
+      "symbol": "LIT",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0xcC8A1364Bd05e05402e8b28dAe554b5d6216E6B9",
+      "name": "Chad",
+      "symbol": "CHAD",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0x323B211505f8800ce21c7210e4d3F7Fd1291320A",
+      "name": "SPACE TACO",
+      "symbol": "TACO",
+      "decimals": 9
+    },
+    {
+      "contract_address": "0x48e2bd1FF7E1094C5271e2c0B9B8C9b81382cEe7",
+      "name": "INSURGENT",
+      "symbol": "IRGT",
+      "decimals": 9
+    }
+  ]
+}
