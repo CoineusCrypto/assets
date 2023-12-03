@@ -2,8 +2,8 @@
   "name": "Coineus Swap List",
   "timestamp": "2023-07-08T15:52:52.092Z",
   "version": {
-    "major": 2,
-    "minor": 8,
+    "major": 3,
+    "minor": 0,
     "patch": 0
   },
   "tags": {},
@@ -15,12 +15,28 @@
   ],
   "tokens": [
     {
-      "name": "BabyKrakens",
-      "address": "0x6e18e35997aacBF017902e63ca789d74DF1b5A2b",
-      "symbol": "BBKS",
+      "name": "Coineus",
+      "address": "0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8",
+      "symbol": "CEUS",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://coineus.app/assets/tokens/fuse/0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8/logo.png"
+    },
+    {
+      "name": "Lightning",
+      "address": "0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F",
+      "symbol": "LIT",
+      "decimals": 18,
+      "chainId": 122,
+      "logoURI": "https://coineus.app/assets/tokens/fuse/0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F/logo.png"
+    },
+    {
+      "name": "Ladybot",
+      "address": "0xDe4b9879B56187D13B2c41Da24c72Ff100A5AC9A",
+      "symbol": "$Lady",
       "decimals": 9,
       "chainId": 122,
-      "logoURI": "https://coineus.app/assets/tokens/fuse/0x6e18e35997aacBF017902e63ca789d74DF1b5A2b/logo.png"
+      "logoURI": "https://coineus.app/assets/tokens/fuse/0xDe4b9879B56187D13B2c41Da24c72Ff100A5AC9A/logo.png"
     },
     {
       "name": "BNB on Fuse",
@@ -31,60 +47,12 @@
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x6acb34b1Df86E254b544189Ec32Cf737e2482058/logo.png"
     },
     {
-      "name": "Binance USD on Fuse",
-      "address": "0x6a5F6A8121592BeCd6747a38d67451B310F7f156",
-      "symbol": "BUSD",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x6a5F6A8121592BeCd6747a38d67451B310F7f156/logo.png"
-    },
-    {
-      "name": "Coineus",
-      "address": "0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8",
-      "symbol": "CEUS",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://coineus.app/assets/tokens/fuse/0x4e69Ae0CD024754655b4eF74F24A8DCB39Ba07e8/logo.png"
-    },
-    {
-      "name": "Dai Stablecoin on Fuse",
-      "address": "0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA",
-      "symbol": "DAI",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA/logo.png"
-    },
-    {
-      "name": "Fuse Dollar",
-      "address": "0xd0ce1b4A349C35e61Af02f5971e71ac502441E49",
-      "symbol": "fUSD",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xd0ce1b4A349C35e61Af02f5971e71ac502441E49/logo.png"
-    },
-    {
-      "name": "Fuse Dollar",
-      "address": "0x249BE57637D8B013Ad64785404b24aeBaE9B098B",
-      "symbol": "fUSD (Deprecated)",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x249BE57637D8B013Ad64785404b24aeBaE9B098B/logo.png"
-    },
-    {
       "name": "GoodDollar",
       "address": "0x495d133B938596C9984d462F007B676bDc57eCEC",
       "symbol": "G$",
       "decimals": 2,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0x495d133B938596C9984d462F007B676bDc57eCEC/logo.png"
-    },
-    {
-      "name": "Lightning",
-      "address": "0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F",
-      "symbol": "LIT",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://coineus.app/assets/tokens/fuse/0xF2C6C1AA2bf8ec40F564Ea8A483F64907ea37A3F/logo.png"
     },
     {
       "name": "USD Coin on Fuse",
@@ -125,15 +93,6 @@
       "decimals": 18,
       "chainId": 122,
       "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xa722c13135930332Eb3d749B2F0906559D2C5b99/logo.png"
-    },
-    {
-      "name": "Wrapped Ether on Fuse",
-      "address": "0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670",
-      "symbol": "WETH (Deprecated)",
-      "decimals": 18,
-      "chainId": 122,
-      "logoURI": "https://raw.githubusercontent.com/voltfinance/token-logos/main/logos/0xd8Bf72f3e163B9CF0C73dFdCC316417A5ac20670/logo.png",
-      "isDeprecated": true
     },
     {
       "name": "Wrapped Fuse",
